@@ -1,13 +1,1 @@
-IVÁN: ¿Cuánto es 7 × 8?
-
-OCTAVIO: ¿Cuánto es 45 ÷ 9?
-
-OMAR: ¿Cuánto es 13 + 27?
-
-EMILIO: ¿Cuánto es 6²?
-
-JOSÉ ÁNGEL: ¿Cuánto es 100 − 37?
-
-RODRIGO: ¿Cuánto es 4 × 9?
-
-LUIS ÁNGEL: ¿Cuánto es 81 ÷ 3?
+hay un archivo de txt tienen que tomar y modificar, diganle al profe su numero de lista en el codigo py y el les dira el cambi a hacer
