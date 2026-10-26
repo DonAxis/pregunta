@@ -2,7 +2,7 @@ ivan = 7 * 8
 print("IVÁN:", ivan)
 
 octavio = 45 / 9
-print("OCTAVIO:", octavio)
+print("OCTAVIO:", octavio) #Yo lo quuiero mucho profe Alexis
 
 omar = 13 + 27
 print("OMAR:", omar)
@@ -11,7 +11,7 @@ emilio = 6 ** 2
 print("EMILIO:", emilio)
 
 jose_angel = 100 - 37
-print("JOSÉ ÁNGEL:", jose_angel)
+print("JOSÉ ÁNGEL:", jose_angel) #Por que te fuiste?
 
 rodrigo = 4 * 9
 print("RODRIGO:", rodrigo)
