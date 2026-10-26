@@ -1,5 +1,5 @@
-ivan = 7 * 8
-print("IVÁN:", ivan)
+ivan = 7 * 8 #La respuesta es 56 segun chatGPT
+print("IVÁN:", ivan) #Ya me harto esto
 
 octavio = 45 / 9
 print("OCTAVIO:", octavio) #Yo lo quuiero mucho profe Alexis
